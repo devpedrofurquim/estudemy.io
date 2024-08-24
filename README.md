@@ -2,4 +2,5 @@
 
 * Pedro Furquim
 * Gabriel Lupateli
-* João Victor
+* João Victorgit
+* Wallacy Oliveira
