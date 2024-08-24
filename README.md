@@ -1,4 +1,5 @@
 # estudemy.io
 
 * Pedro Furquim
-*Gabriel Lupateli
+* Gabriel Lupateli
+* João Victor
